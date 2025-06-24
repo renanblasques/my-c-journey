@@ -1,6 +1,6 @@
 # Introdução à Ciência da Computação – USP (2025)
 
-Este repositório contém todos os exercícios de programação desenvolvidos durante a disciplina de **Introdução à Ciência da Computação I** do curso de Bacharelado em Sistemas de Informação da **USP**, no primeiro semestre de 2025.
+Este repositório contém todos os exercícios de programação realizados durante a disciplina de **Introdução à Ciência da Computação I** do curso de Bacharelado em Sistemas de Informação da **USP**, no primeiro semestre de 2025.
 
 Os exercícios foram escritos em linguagem **C** e estão organizados por tópicos/seções conforme o cronograma da disciplina.
 
@@ -50,4 +50,4 @@ gcc nome_do_arquivo.c -o programa.out
 
 ## Autor
 
-Desenvolvido por **Renan Blasques** como parte das atividades da disciplina *Introdução à Ciência da Computação I*.
+Desenvolvido por **Renan Blasques** como parte da resolução de exercícios da disciplina *SSC0501 - Introdução à Ciência da Computação I*.
