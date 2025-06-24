@@ -1,0 +1,14 @@
+No ponteiro esquecido declarei com emoção,  
+mas na hora de usar... deu segmentation.  
+
+Abri o arquivo com fopen na mão,  
+mas esqueci de fechar -- vazou meu coração.  
+
+Usei malloc com fé, sem olhar pra trás,  
+mas free nunca veio... agora tanto faz.  
+
+Na struct do amor, faltou um typedef,  
+e o erro do compilador me deixou sem chefe.  
+
+O loop infinito era só pra testar,  
+mas virou minha vida... não quis mais parar.  

@@ -1,0 +1,3 @@
+Rex;Cachorro;5;Banho;10/06/2025;14:00
+Luna;Gato;3;Consulta;12/06/2025;09:30
+Rex Junior;Cachorro;2;Vacina;20/06/2025;10:00
